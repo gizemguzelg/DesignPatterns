@@ -1,0 +1,14 @@
+C:\Users\VurmakPC\source\repos\DesignPatterns\StructuralPatterns\DecoratorPatterns\bin\Debug\netcoreapp3.1\DecoratorPatterns.exe
+C:\Users\VurmakPC\source\repos\DesignPatterns\StructuralPatterns\DecoratorPatterns\bin\Debug\netcoreapp3.1\DecoratorPatterns.deps.json
+C:\Users\VurmakPC\source\repos\DesignPatterns\StructuralPatterns\DecoratorPatterns\bin\Debug\netcoreapp3.1\DecoratorPatterns.runtimeconfig.json
+C:\Users\VurmakPC\source\repos\DesignPatterns\StructuralPatterns\DecoratorPatterns\bin\Debug\netcoreapp3.1\DecoratorPatterns.runtimeconfig.dev.json
+C:\Users\VurmakPC\source\repos\DesignPatterns\StructuralPatterns\DecoratorPatterns\bin\Debug\netcoreapp3.1\DecoratorPatterns.dll
+C:\Users\VurmakPC\source\repos\DesignPatterns\StructuralPatterns\DecoratorPatterns\bin\Debug\netcoreapp3.1\DecoratorPatterns.pdb
+C:\Users\VurmakPC\source\repos\DesignPatterns\StructuralPatterns\DecoratorPatterns\obj\Debug\netcoreapp3.1\DecoratorPatterns.csproj.AssemblyReference.cache
+C:\Users\VurmakPC\source\repos\DesignPatterns\StructuralPatterns\DecoratorPatterns\obj\Debug\netcoreapp3.1\DecoratorPatterns.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VurmakPC\source\repos\DesignPatterns\StructuralPatterns\DecoratorPatterns\obj\Debug\netcoreapp3.1\DecoratorPatterns.AssemblyInfoInputs.cache
+C:\Users\VurmakPC\source\repos\DesignPatterns\StructuralPatterns\DecoratorPatterns\obj\Debug\netcoreapp3.1\DecoratorPatterns.AssemblyInfo.cs
+C:\Users\VurmakPC\source\repos\DesignPatterns\StructuralPatterns\DecoratorPatterns\obj\Debug\netcoreapp3.1\DecoratorPatterns.csproj.CoreCompileInputs.cache
+C:\Users\VurmakPC\source\repos\DesignPatterns\StructuralPatterns\DecoratorPatterns\obj\Debug\netcoreapp3.1\DecoratorPatterns.dll
+C:\Users\VurmakPC\source\repos\DesignPatterns\StructuralPatterns\DecoratorPatterns\obj\Debug\netcoreapp3.1\DecoratorPatterns.pdb
+C:\Users\VurmakPC\source\repos\DesignPatterns\StructuralPatterns\DecoratorPatterns\obj\Debug\netcoreapp3.1\DecoratorPatterns.genruntimeconfig.cache
