@@ -1,0 +1,14 @@
+C:\Users\VurmakPC\source\repos\DesignPatterns\BehavioralPatterns\Mediator\bin\Debug\netcoreapp3.1\Mediator.exe
+C:\Users\VurmakPC\source\repos\DesignPatterns\BehavioralPatterns\Mediator\bin\Debug\netcoreapp3.1\Mediator.deps.json
+C:\Users\VurmakPC\source\repos\DesignPatterns\BehavioralPatterns\Mediator\bin\Debug\netcoreapp3.1\Mediator.runtimeconfig.json
+C:\Users\VurmakPC\source\repos\DesignPatterns\BehavioralPatterns\Mediator\bin\Debug\netcoreapp3.1\Mediator.runtimeconfig.dev.json
+C:\Users\VurmakPC\source\repos\DesignPatterns\BehavioralPatterns\Mediator\bin\Debug\netcoreapp3.1\Mediator.dll
+C:\Users\VurmakPC\source\repos\DesignPatterns\BehavioralPatterns\Mediator\bin\Debug\netcoreapp3.1\Mediator.pdb
+C:\Users\VurmakPC\source\repos\DesignPatterns\BehavioralPatterns\Mediator\obj\Debug\netcoreapp3.1\Mediator.csproj.AssemblyReference.cache
+C:\Users\VurmakPC\source\repos\DesignPatterns\BehavioralPatterns\Mediator\obj\Debug\netcoreapp3.1\Mediator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VurmakPC\source\repos\DesignPatterns\BehavioralPatterns\Mediator\obj\Debug\netcoreapp3.1\Mediator.AssemblyInfoInputs.cache
+C:\Users\VurmakPC\source\repos\DesignPatterns\BehavioralPatterns\Mediator\obj\Debug\netcoreapp3.1\Mediator.AssemblyInfo.cs
+C:\Users\VurmakPC\source\repos\DesignPatterns\BehavioralPatterns\Mediator\obj\Debug\netcoreapp3.1\Mediator.csproj.CoreCompileInputs.cache
+C:\Users\VurmakPC\source\repos\DesignPatterns\BehavioralPatterns\Mediator\obj\Debug\netcoreapp3.1\Mediator.dll
+C:\Users\VurmakPC\source\repos\DesignPatterns\BehavioralPatterns\Mediator\obj\Debug\netcoreapp3.1\Mediator.pdb
+C:\Users\VurmakPC\source\repos\DesignPatterns\BehavioralPatterns\Mediator\obj\Debug\netcoreapp3.1\Mediator.genruntimeconfig.cache
