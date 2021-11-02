@@ -1,0 +1,14 @@
+C:\Users\VurmakPC\source\repos\DesignPatterns\CreationalPatterns\FactoryMethod\bin\Debug\netcoreapp3.1\FactoryMethod.exe
+C:\Users\VurmakPC\source\repos\DesignPatterns\CreationalPatterns\FactoryMethod\bin\Debug\netcoreapp3.1\FactoryMethod.deps.json
+C:\Users\VurmakPC\source\repos\DesignPatterns\CreationalPatterns\FactoryMethod\bin\Debug\netcoreapp3.1\FactoryMethod.runtimeconfig.json
+C:\Users\VurmakPC\source\repos\DesignPatterns\CreationalPatterns\FactoryMethod\bin\Debug\netcoreapp3.1\FactoryMethod.runtimeconfig.dev.json
+C:\Users\VurmakPC\source\repos\DesignPatterns\CreationalPatterns\FactoryMethod\bin\Debug\netcoreapp3.1\FactoryMethod.dll
+C:\Users\VurmakPC\source\repos\DesignPatterns\CreationalPatterns\FactoryMethod\bin\Debug\netcoreapp3.1\FactoryMethod.pdb
+C:\Users\VurmakPC\source\repos\DesignPatterns\CreationalPatterns\FactoryMethod\obj\Debug\netcoreapp3.1\FactoryMethod.csproj.AssemblyReference.cache
+C:\Users\VurmakPC\source\repos\DesignPatterns\CreationalPatterns\FactoryMethod\obj\Debug\netcoreapp3.1\FactoryMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VurmakPC\source\repos\DesignPatterns\CreationalPatterns\FactoryMethod\obj\Debug\netcoreapp3.1\FactoryMethod.AssemblyInfoInputs.cache
+C:\Users\VurmakPC\source\repos\DesignPatterns\CreationalPatterns\FactoryMethod\obj\Debug\netcoreapp3.1\FactoryMethod.AssemblyInfo.cs
+C:\Users\VurmakPC\source\repos\DesignPatterns\CreationalPatterns\FactoryMethod\obj\Debug\netcoreapp3.1\FactoryMethod.csproj.CoreCompileInputs.cache
+C:\Users\VurmakPC\source\repos\DesignPatterns\CreationalPatterns\FactoryMethod\obj\Debug\netcoreapp3.1\FactoryMethod.dll
+C:\Users\VurmakPC\source\repos\DesignPatterns\CreationalPatterns\FactoryMethod\obj\Debug\netcoreapp3.1\FactoryMethod.pdb
+C:\Users\VurmakPC\source\repos\DesignPatterns\CreationalPatterns\FactoryMethod\obj\Debug\netcoreapp3.1\FactoryMethod.genruntimeconfig.cache
