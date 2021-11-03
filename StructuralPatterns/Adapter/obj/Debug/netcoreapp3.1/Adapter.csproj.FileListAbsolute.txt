@@ -1,0 +1,14 @@
+C:\Users\VurmakPC\source\repos\DesignPatterns\StructuralPatterns\Adapter\bin\Debug\netcoreapp3.1\Adapter.exe
+C:\Users\VurmakPC\source\repos\DesignPatterns\StructuralPatterns\Adapter\bin\Debug\netcoreapp3.1\Adapter.deps.json
+C:\Users\VurmakPC\source\repos\DesignPatterns\StructuralPatterns\Adapter\bin\Debug\netcoreapp3.1\Adapter.runtimeconfig.json
+C:\Users\VurmakPC\source\repos\DesignPatterns\StructuralPatterns\Adapter\bin\Debug\netcoreapp3.1\Adapter.runtimeconfig.dev.json
+C:\Users\VurmakPC\source\repos\DesignPatterns\StructuralPatterns\Adapter\bin\Debug\netcoreapp3.1\Adapter.dll
+C:\Users\VurmakPC\source\repos\DesignPatterns\StructuralPatterns\Adapter\bin\Debug\netcoreapp3.1\Adapter.pdb
+C:\Users\VurmakPC\source\repos\DesignPatterns\StructuralPatterns\Adapter\obj\Debug\netcoreapp3.1\Adapter.csproj.AssemblyReference.cache
+C:\Users\VurmakPC\source\repos\DesignPatterns\StructuralPatterns\Adapter\obj\Debug\netcoreapp3.1\Adapter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VurmakPC\source\repos\DesignPatterns\StructuralPatterns\Adapter\obj\Debug\netcoreapp3.1\Adapter.AssemblyInfoInputs.cache
+C:\Users\VurmakPC\source\repos\DesignPatterns\StructuralPatterns\Adapter\obj\Debug\netcoreapp3.1\Adapter.AssemblyInfo.cs
+C:\Users\VurmakPC\source\repos\DesignPatterns\StructuralPatterns\Adapter\obj\Debug\netcoreapp3.1\Adapter.csproj.CoreCompileInputs.cache
+C:\Users\VurmakPC\source\repos\DesignPatterns\StructuralPatterns\Adapter\obj\Debug\netcoreapp3.1\Adapter.dll
+C:\Users\VurmakPC\source\repos\DesignPatterns\StructuralPatterns\Adapter\obj\Debug\netcoreapp3.1\Adapter.pdb
+C:\Users\VurmakPC\source\repos\DesignPatterns\StructuralPatterns\Adapter\obj\Debug\netcoreapp3.1\Adapter.genruntimeconfig.cache
